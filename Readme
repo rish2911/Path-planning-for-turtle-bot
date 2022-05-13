@@ -1,0 +1,45 @@
+Folder Structure:
+	-Readme.txt
+	-Rishabh_Singh.py
+	-Video recording - astar.mp4
+
+How to run the code:
+Copy the the folder to your desired location
+Open the main.py file in any text editor (VSC is preferrable)
+
+Libraries required are:
+numpy - pip3 install numpy
+queue - pip3 install queue
+pygame - pip3 install pygame
+matplotlib - pip3 install matplotlib
+cv2 - pip3 install cv2 
+
+
+------FIRST ACTIVATE YOUR ENVIRONMENT-------
+
+Using -- conda active "Environment name"
+
+Type running command on the command terminal: 
+'python3 main.py'
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+Expected input:
+please enter the starting x coordinate from 10-390: 11
+please enter the starting x coordinate from 10-240: 11
+please enter the starting angle from 0 to 330 (step size of 30 degree):0
+please enter the goal x coordinate from 10-390: 390
+please enter the goal y coordinate from 10-240: 240
+please enter the goal angle from 0 to 330 (step size of 30 degree:330
+Enter the value of step size between (1-10):2
+
+
+Github link: https://github.com/Rish2911/A_start_661_proj_1
+
+NOTE: Some goals may take lot of time, to check the code for locations like 11,11,30 to 150,150,60 or the sample one or something nearby
+
+![alt-text](astar_output.gif)
+
+
+
+Please reach out to me in case of any doubt at: rsingh24@umd.edu
