@@ -22,7 +22,7 @@ Using -- conda active "Environment name"
 Type running command on the command terminal: 
 'python3 main.py'
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 Expected input:
 please enter the starting x coordinate from 10-390: 11
@@ -38,7 +38,7 @@ Github link: https://github.com/Rish2911/A_start_661_proj_1
 
 NOTE: Some goals may take lot of time, to check the code for locations like 11,11,30 to 150,150,60 or the sample one or something nearby
 
-![alt-text](astar_output.gif)
+![alt-text](output.gif)
 
 
 
